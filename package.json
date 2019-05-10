@@ -1,0 +1,38 @@
+
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mongodbconnect.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+
+  
+  "author": "Abhishek L S",
+  "license": "ISC",
+  "dependencies": {
+    "alert": "^1.0.0",
+    "alert-node": "^1.2.3",
+    "body-parser": "^1.18.3",
+    "bootstrap": "^4.3.1",
+    "dateformat": "^3.0.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "express-partials": "^0.3.0",
+    "express-session": "^1.16.1",
+    "find": "^0.3.0",
+    "html": "^1.0.0",
+    "jquery": "^3.4.0",
+    "mongodb": "^3.2.3",
+    "mysql": "^2.16.0",
+    "nodemon": "^1.18.11",
+    
+    "popups": "^1.1.3",
+    "tether": "^1.4.5"
+  }
+  
+}
+
